@@ -1,5 +1,5 @@
 .body {
-    background: linear-gradient(1000deg, #1a1a2e, #16213e, #0f3460);
+    background: linear-gradient(90deg, #1a1a2e, #16213e, #0f3460);
     font-family: Arial, sans-serif; 
     flex-wrap: wrap; 
     justify-content: center;
@@ -832,3 +832,4 @@
     line-height: 1.4rem;
   }
   
+
